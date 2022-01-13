@@ -1,0 +1,8 @@
+purchase order - po(internal)
+transfer order -to(external)
+ce_order_type- bok (external sales)(no grn)
+ce_order_type- cok (internal po)
+order details -store in order management and order_details(item level) table
+dispatched order details in dispatch main and dispatch details
+goods recieved note stored in grn and grn_details
+returned orders in goods return and details table

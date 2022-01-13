@@ -1,0 +1,38 @@
+main page
+for location
+1. current location
+2. enter loaction (searching)
+
+Remove top brands and best seller 18:03 19-05-2021
+stores should list within specified radius
+
+home page 
+1.public 
+stores should list within specified radius
+2.influencer
+only the stores influencer is promoting should be listed within specified radius
+ 
+
+menu page
+check if selected store is foodmarket or stand alone 
+1.public 
+other stores within specified radius
+2.influencer
+other influencer promoting stores within specified radius
+
+cart page
+addon items from same store 
+if store is foodmarket display addons from same store or defferent store from same hub
+
+add item in cart
+cart unique id
+dish_id
+dish_name
+dish_tax
+unit_price
+qty
+variant={
+qty
+unit_price
+total_price
+}
